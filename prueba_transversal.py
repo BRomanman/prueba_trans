@@ -16,7 +16,7 @@ def guardar_datos_en_txt():
 
 while opc != 5:
 
-    opc = int(input("MENU\n1-asignar numeros aleatorios\nclasificar sueldos\n3-ver estadisticas\n4-reporte de sueldos\n5-salir\nDigita tu opcion: "))
+    opc = int(input("MENU\CAMBIOS PARA LA PRUEBAn1-asignar numeros aleatorios\nclasificar sueldos\n3-ver estadisticas\n4-reporte de sueldos\n5-salir\nDigita tu opcion: "))
 
     if opc == 1:
         print("***SUELDOS***")
